@@ -1,2 +1,2 @@
 # StockPriceQuerySystem
-A stock price query system, built by PyQt 5
+A stock price query system, built by PyQt 6
