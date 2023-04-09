@@ -22,6 +22,8 @@ import io
 """
 Sample StockPriceQuerySystem Demo
 
+main code
+
 Create by LIN, KAI-LUN at NATIONAL TAIPEI UNIVERSITY
 
 2022/06/16
